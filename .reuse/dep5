@@ -1,0 +1,4 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: actqttoolbox
+Upstream-Contact: Benoit Rolandeau <benoit.rolandeau@allcircuits.com>
+Source: http://gitlab.act.lan:8011/internal-libraries/software/actqttoolbox.git

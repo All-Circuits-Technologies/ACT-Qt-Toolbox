@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Benoit Rolandeau <benoit.rolandeau@allcircuits.com>
+#
+# SPDX-License-Identifier: LicenseRef-ALLCircuits-ACT-1.1
+
+[submodule "qtutilities/elfutility/3rdparty/elfio"]
+	path = qtutilities/elfutility/3rdparty/elfio
+	url = https://github.com/serge1/ELFIO.git

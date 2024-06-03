@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: 2023 Anthony Loiseau <anthony.loiseau@allcircuits.com>
+#
+# SPDX-License-Identifier: LicenseRef-ALLCircuits-ACT-1.1
+
+# See https://git-scm.com/docs/gitmailmap
+
+
+# - Consistant PNB name, with accent, UTF-8
+Pierre-Noël Bouteville <pierre-noel.bouteville@allcircuits.com>
+
+# - NicolasBruley full name without spaces
+Nicolas Bruley <nicolas.bruley@allcircuits.com>
+
+# - aloiseau gitlab admin account (often affecting initial commit of README.md)
+Anthony Loiseau <anthony.loiseau@allcircuits.com> <anthony.loiseau@allcircuits-technologies.com>
+
+# - brolandeau gitlab admin account (often affecting initial commit of README.md)
+Benoit Rolandeau <benoit.rolandeau@allcircuits.com> <benoit.rolandeau@allcircuits-technologies.com>
+
+# - dmanceau full name
+Damien Manceau <damien.manceau@allcircuits.com>
+Damien Manceau <damien.manceau@allcircuits.com> <damienmanceau04@gmail.com>
